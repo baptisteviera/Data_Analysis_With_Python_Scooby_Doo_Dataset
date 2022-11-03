@@ -1,5 +1,4 @@
-The goal of this project is to apply the data analysis techniques seen during the SY09 course to one of the tidy tuesday datasets. We have chosen the dataset gathering the data
-on the episodes of the series "Scooby-Doo".
+The goal of this project is to apply the data analysis techniques seen during one of my Data Science course to one of the tidy tuesday datasets. We have chosen the dataset gathering the data on the episodes of the series "Scooby-Doo".
 
 Our study of the dataset consists of two distinct problems: a classification problem and a regression problem. 
 
