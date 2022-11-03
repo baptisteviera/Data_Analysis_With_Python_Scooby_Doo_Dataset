@@ -6,3 +6,6 @@ For the classification problem we looked at the "monster-real" column and tried 
 
 For the regression problem we tried to predict the variable "IMDB" from the data: this quantitative variable describes the imdb score (a site specialized in movies and television) obtained by the movie
 or the episode in question.
+
+
+We worked on this project from april to june 2022.
